@@ -179,6 +179,7 @@ a {
   margin: 0;
   font-family: sans-serif;
   width: auto;
+  text-align: left;
 }
 
 .p1 {
@@ -186,8 +187,8 @@ a {
   padding: 5px;
   color: #eee;
   position: absolute;
-  font-size: 1rem;
-  bottom: 32px;
+  font-size: 0.8rem;
+  bottom: 28px;
   left: 5px;
 }
 
@@ -195,7 +196,7 @@ a {
   background-color: rgba(0, 0, 0, 0.4);
   padding: 5px;
   color: #eee;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
   position: absolute;
   bottom: 5px;
   left: 5px;
