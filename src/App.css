@@ -126,13 +126,6 @@ a {
   color: rgba(0, 0, 0, 0.4);
 }
 
-.content {
-  margin: 0 auto;
-  width: 95vw;
-  max-width: 1400px;
-  margin-top: 20px;
-}
-
 .galleryList {
   min-height: 75vh;
 }
@@ -204,8 +197,7 @@ a {
 
 .content {
   margin: 0 auto;
-  width: 90vw;
-  max-width: 1400px;
+  width: 95vw;
   margin-top: 20px;
 }
 
